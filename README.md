@@ -1,3 +1,3 @@
 # My-Python-Learning
 # My python code
-# I learn python and pratise
+# I learn python and practise
